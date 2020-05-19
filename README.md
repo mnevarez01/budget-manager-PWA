@@ -5,7 +5,6 @@
 ### Table of Contents:
 * [Description](##-Description)
 * [Installation](##-Installation)
-* [Demonstration](##-Demonstration)
 * [Credits](##-Credits)
 * [License](##-License)
 
@@ -22,3 +21,7 @@ Using the package.json you will have all dependencies to be able to run the prog
 * [Express](https://www.npmjs.com/package/express)
 * [Mongoose](https://www.npmjs.com/package/mongoose)
 * [Morgan](https://www.npmjs.com/package/morgan)
+
+## License
+
+This project is licensed by MIT
